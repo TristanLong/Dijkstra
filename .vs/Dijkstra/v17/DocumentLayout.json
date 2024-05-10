@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Dijkstra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39BF3581-C291-4752-886C-2867373C99B2}|Dijkstra\\Dijkstra.vcxproj|D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Dijkstra\\Dijkstra\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39BF3581-C291-4752-886C-2867373C99B2}|Dijkstra\\Dijkstra.vcxproj|solutionrelative:Dijkstra\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39BF3581-C291-4752-886C-2867373C99B2}|Dijkstra\\Dijkstra.vcxproj|D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Dijkstra\\Dijkstra\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{39BF3581-C291-4752-886C-2867373C99B2}|Dijkstra\\Dijkstra.vcxproj|solutionrelative:Dijkstra\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Text.txt",
+              "DocumentMoniker": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Dijkstra\\Dijkstra\\Text.txt",
+              "RelativeDocumentMoniker": "Dijkstra\\Text.txt",
+              "ToolTip": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Dijkstra\\Dijkstra\\Text.txt",
+              "RelativeToolTip": "Dijkstra\\Text.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-10T17:13:04.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Dijkstra\\Dijkstra\\Source.cpp",
+              "RelativeDocumentMoniker": "Dijkstra\\Source.cpp",
+              "ToolTip": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Dijkstra\\Dijkstra\\Source.cpp",
+              "RelativeToolTip": "Dijkstra\\Source.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T17:12:57.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
